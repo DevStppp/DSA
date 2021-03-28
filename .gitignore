@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio
+.vs/
+*.sln
+*.user
+*.filters
+*.vcxproj
+*.recipe
+*.log
+*.tlog
+*.idb
+*.pdb
+*.ilk
